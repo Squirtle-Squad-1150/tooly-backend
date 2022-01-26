@@ -1,5 +1,5 @@
 const express = require('express');
-const Listing = require('../backend/models/Listing.js');
+const Listing = require('./models/Listing');
 
 const router = express.Router();
 
