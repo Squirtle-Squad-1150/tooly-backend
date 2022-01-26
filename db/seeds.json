@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Table Saw",
+    "image": "https://www.dewalt.com/_Classes/SBDShared/Customizations/Imageresizer.ashx?path=%2fProductImages%2f800X800%2fDCS7485T1_R1_800X800.jpg&w=500&h=500&crop=true&defaultimage=%2f%7e%2fmedia%2fdewalt%2fimages%2fdefault-images%2fnoimageavailable250x250gtenglish.jpg&showdefaultimage=true",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. ", 
+    "brand": "Dewalt",
+    "model": "DCS7485T1", 
+    "condition": "Good",
+    "cordless": true,
+    "category":"Saws",
+    "pricePerHour": 30,
+    "location": "Portland, OR",
+    "available": true
+  },
+  {
+    "title": "Air Compressor",
+    "image": "https://www.dewalt.com/NA/product/images/3000x3000x96/DCC2520T1/DCC2520T1_1.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. ", 
+    "brand": "Dewalt",
+    "model": "DCC2520", 
+    "condition": "Good",
+    "cordless": true,
+    "category":"Compressors",
+    "pricePerHour": 20,
+    "location": "Battle Ground, WA",
+    "available": true
+  },
+    {
+    "title": "Angle Grinder",
+    "image": "https://www.craftsman.com/NA/PRODUCT/IMAGES/3000x3000x96//CMCG450B/CMCG450B_1.jpg?resize=600x600",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. ", 
+    "brand": "Craftsman",
+    "model": "CMCG450B", 
+    "condition": "Okay",
+    "cordless": true,
+    "category":"Grinders",
+    "pricePerHour": 15,
+    "location": "Vancouver, WA",
+    "available": false
+  },
+    {
+    "title": "Air Impact Wrench",
+    "image": "https://www.craftsman.com/NA/PRODUCT/IMAGES/3000x3000x96//CMXPTSG1003NB/CMXPTSG1003NB_1.jpg?resize=600x600",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. ", 
+    "brand": "Craftsman",
+    "model": "CMXPTSG1003NB", 
+    "condition": "Excellent",
+    "cordless": false,
+    "category":"Air Tools",
+    "pricePerHour": 40,
+    "location": "Beaverton, OR",
+    "available": true
+  },
+    {
+    "title": "Belt Sander",
+    "image": "https://cdn.makitatools.com/apps/cms/img/940/c2a41e2c-e894-4523-990d-a01aeae0c5d3_9403_p_1500px.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. ", 
+    "brand": "Makita",
+    "model": "9403", 
+    "condition": "Used",
+    "cordless": false,
+    "category":"Grinders",
+    "pricePerHour": 10,
+    "location": "Woodland, WA",
+    "available": false
+  }
+]
