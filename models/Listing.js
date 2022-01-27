@@ -1,17 +1,17 @@
 const mongoose = require('../db/connection');
 
 const ListingSchema = new mongoose.Schema({
-	title: String,
+	tool: String,
 	image: String,
 	description: String,
 	brand: String,
 	model: String,
 	condition: String,
-	cordless: Boolean,
+	cordless: String,
 	category: String,
 	price: Number,
 	location: String,
-	available: Boolean,
+	available: { type: String, default: 'true' }
 });
 
 const Listing = mongoose.model('Listing', ListingSchema);
