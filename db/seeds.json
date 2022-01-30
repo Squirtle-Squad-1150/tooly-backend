@@ -10,7 +10,8 @@
     "category":"Saws",
     "pricePerHour": 30,
     "location": "Portland, OR",
-    "available": "true"
+    "available": "true",
+    "reserve": []
   },
   {
     "tool": "Air Compressor",
@@ -23,7 +24,8 @@
     "category":"Compressors",
     "pricePerHour": 20,
     "location": "Battle Ground, WA",
-    "available": "true"
+    "available": "true",
+    "reserve": []
   },
     {
     "tool": "Angle Grinder",
@@ -36,7 +38,8 @@
     "category":"Grinders",
     "pricePerHour": 15,
     "location": "Vancouver, WA",
-    "available": "false"
+    "available": "false",
+    "reserve": []
   },
     {
     "tool": "Air Impact Wrench",
@@ -49,7 +52,8 @@
     "category":"Air Tools",
     "pricePerHour": 40,
     "location": "Beaverton, OR",
-    "available": "true"
+    "available": "true",
+    "reserve": []
   },
     {
     "tool": "Belt Sander",
@@ -62,6 +66,7 @@
     "category":"Grinders",
     "pricePerHour": 10,
     "location": "Woodland, WA",
-    "available": "false"
+    "available": "false",
+    "reserve": []
   }
 ]

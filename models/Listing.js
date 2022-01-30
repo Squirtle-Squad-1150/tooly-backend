@@ -11,7 +11,8 @@ const ListingSchema = new mongoose.Schema({
 	category: String,
 	price: Number,
 	location: String,
-	available: { type: String, default: 'true' }
+	available: {type: String, default: 'true'},
+	reserve: []
 });
 
 const Listing = mongoose.model('Listing', ListingSchema);
