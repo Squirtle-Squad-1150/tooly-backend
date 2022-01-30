@@ -3,7 +3,7 @@ const express = require('express');
 const cors = require('cors');
 const app = express();
 const ListingController = require('./controllers/ListingController');
-const userController = require('./controllers/usersController');
+const userController = require('./controllers/UserController');
 
 // Forward all requests to localhost:8000/listing to the listing controller
 app.set('port', process.env.PORT || 8000);
